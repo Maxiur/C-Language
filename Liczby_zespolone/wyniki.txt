@@ -1,0 +1,312 @@
+Liczba zespolona z1: 67.60-72.24i
+Liczba zespolona z2: -28.48+4.18i
+Suma: 39.12-68.06i
+Różnica: 96.08-76.42i
+Iloczyn: -1623.28 + 2339.96i
+Iloraz: -2.69+2.14i
+Moduł z1: 98.94
+Moduł z2: 28.79
+Faza z1: -0.82 rad
+Faza z2: 3.00 rad
+
+-----------------------------------------
+
+Liczba zespolona z1: -99.05-18.47i
+Liczba zespolona z2: 80.94-87.02i
+Suma: -18.11-105.49i
+Różnica: -179.99+68.55i
+Iloczyn: -9624.37 + 7124.37i
+Iloraz: -0.45-0.72i
+Moduł z1: 100.76
+Moduł z2: 118.84
+Faza z1: -2.96 rad
+Faza z2: -0.82 rad
+
+-----------------------------------------
+
+Liczba zespolona z1: -93.66-8.37i
+Liczba zespolona z2: -22.66-58.40i
+Suma: -116.32-66.77i
+Różnica: -71.00+50.03i
+Iloczyn: 1633.53 + 5659.41i
+Iloraz: 0.67-1.35i
+Moduł z1: 94.03
+Moduł z2: 62.64
+Faza z1: -3.05 rad
+Faza z2: -1.94 rad
+
+-----------------------------------------
+
+Liczba zespolona z1: -60.57-71.84i
+Liczba zespolona z2: 92.35+41.75i
+Suma: 31.78-30.09i
+Różnica: -152.92-113.59i
+Iloczyn: -2594.32 - 9163.22i
+Iloraz: -0.84-0.40i
+Moduł z1: 93.97
+Moduł z2: 101.35
+Faza z1: -2.27 rad
+Faza z2: 0.42 rad
+
+-----------------------------------------
+
+Liczba zespolona z1: 36.09+5.14i
+Liczba zespolona z2: -6.87+25.82i
+Suma: 29.22+30.96i
+Różnica: 42.96-20.68i
+Iloczyn: -380.65 + 896.53i
+Iloraz: -0.16-1.35i
+Moduł z1: 36.45
+Moduł z2: 26.72
+Faza z1: 0.14 rad
+Faza z2: 1.83 rad
+
+-----------------------------------------
+
+Liczba zespolona z1: -34.47-29.80i
+Liczba zespolona z2: 20.60-97.75i
+Suma: -13.87-127.55i
+Różnica: -55.07+67.95i
+Iloczyn: -3623.03 + 2755.56i
+Iloraz: 0.22-0.40i
+Moduł z1: 45.57
+Moduł z2: 99.90
+Faza z1: -2.43 rad
+Faza z2: -1.36 rad
+
+-----------------------------------------
+
+Liczba zespolona z1: 21.38+32.82i
+Liczba zespolona z2: -44.21-69.20i
+Suma: -22.83-36.38i
+Różnica: 65.59+102.02i
+Iloczyn: 1325.93 - 2930.47i
+Iloraz: -0.48+0.00i
+Moduł z1: 39.17
+Moduł z2: 82.12
+Faza z1: 0.99 rad
+Faza z2: -2.14 rad
+
+-----------------------------------------
+
+Liczba zespolona z1: -24.94+73.43i
+Liczba zespolona z2: -61.61+87.21i
+Suma: -86.55+160.64i
+Różnica: 36.67-13.78i
+Iloczyn: -4867.28 - 6699.04i
+Iloraz: 0.70-0.21i
+Moduł z1: 77.55
+Moduł z2: 106.78
+Faza z1: 1.90 rad
+Faza z2: 2.19 rad
+
+-----------------------------------------
+
+Liczba zespolona z1: -8.62-20.14i
+Liczba zespolona z2: 61.40+9.91i
+Suma: 52.78-10.23i
+Różnica: -70.02-30.05i
+Iloczyn: -329.68 - 1322.02i
+Iloraz: -0.19-0.30i
+Moduł z1: 21.91
+Moduł z2: 62.19
+Faza z1: -1.98 rad
+Faza z2: 0.16 rad
+
+-----------------------------------------
+
+Liczba zespolona z1: 60.10-7.67i
+Liczba zespolona z2: -78.84+42.33i
+Suma: -18.74+34.66i
+Różnica: 138.94-50.00i
+Iloczyn: -4413.61 + 3148.74i
+Iloraz: -0.63-0.24i
+Moduł z1: 60.59
+Moduł z2: 89.49
+Faza z1: -0.13 rad
+Faza z2: 2.65 rad
+
+-----------------------------------------
+
+Liczba zespolona z1: -78.87+66.45i
+Liczba zespolona z2: -68.19+35.72i
+Suma: -147.06+102.17i
+Różnica: -10.68+30.73i
+Iloczyn: 3004.55 - 7348.46i
+Iloraz: 1.31-0.29i
+Moduł z1: 103.13
+Moduł z2: 76.98
+Faza z1: 2.44 rad
+Faza z2: 2.66 rad
+
+-----------------------------------------
+
+Liczba zespolona z1: 14.67-39.44i
+Liczba zespolona z2: 65.70-75.85i
+Suma: 80.37-115.29i
+Różnica: -51.03+36.41i
+Iloczyn: -2027.70 - 3703.93i
+Iloraz: 0.39-0.15i
+Moduł z1: 42.08
+Moduł z2: 100.35
+Faza z1: -1.21 rad
+Faza z2: -0.86 rad
+
+-----------------------------------------
+
+Liczba zespolona z1: 87.18-49.25i
+Liczba zespolona z2: 20.95-41.17i
+Suma: 108.13-90.42i
+Różnica: 66.23-8.08i
+Iloczyn: -201.20 - 4620.99i
+Iloraz: 1.81+1.20i
+Moduł z1: 100.13
+Moduł z2: 46.19
+Faza z1: -0.51 rad
+Faza z2: -1.10 rad
+
+-----------------------------------------
+
+Liczba zespolona z1: -1.71-47.29i
+Liczba zespolona z2: -77.27-58.46i
+Suma: -78.98-105.75i
+Różnica: 75.56+11.17i
+Iloczyn: -2632.44 + 3754.06i
+Iloraz: 0.31+0.38i
+Moduł z1: 47.32
+Moduł z2: 96.89
+Faza z1: -1.61 rad
+Faza z2: -2.49 rad
+
+-----------------------------------------
+
+Liczba zespolona z1: -27.66-43.13i
+Liczba zespolona z2: -32.50-21.48i
+Suma: -60.16-64.61i
+Różnica: 4.84-21.65i
+Iloczyn: -27.48 + 1995.86i
+Iloraz: 1.20+0.53i
+Moduł z1: 51.24
+Moduł z2: 38.96
+Faza z1: -2.14 rad
+Faza z2: -2.56 rad
+
+-----------------------------------------
+
+Liczba zespolona z1: -34.28+84.61i
+Liczba zespolona z2: -35.53+5.89i
+Suma: -69.81+90.50i
+Różnica: 1.25+78.72i
+Iloczyn: 719.62 - 3208.10i
+Iloraz: 1.32-2.16i
+Moduł z1: 91.29
+Moduł z2: 36.01
+Faza z1: 1.96 rad
+Faza z2: 2.98 rad
+
+-----------------------------------------
+
+Liczba zespolona z1: -84.21+94.31i
+Liczba zespolona z2: 23.84-36.93i
+Suma: -60.37+57.38i
+Różnica: -108.05+131.24i
+Iloczyn: 1475.30 + 5358.23i
+Iloraz: -2.84-0.45i
+Moduł z1: 126.43
+Moduł z2: 43.96
+Faza z1: 2.30 rad
+Faza z2: -1.00 rad
+
+-----------------------------------------
+
+Liczba zespolona z1: -57.40-86.90i
+Liczba zespolona z2: -83.25+45.00i
+Suma: -140.65-41.90i
+Różnica: 25.85-131.90i
+Iloczyn: 8689.05 + 4651.43i
+Iloraz: 0.10+1.10i
+Moduł z1: 104.15
+Moduł z2: 94.63
+Faza z1: -2.15 rad
+Faza z2: 2.65 rad
+
+-----------------------------------------
+
+Liczba zespolona z1: 17.92-36.27i
+Liczba zespolona z2: 61.50-51.44i
+Suma: 79.42-87.71i
+Różnica: -43.58+15.17i
+Iloczyn: -763.65 - 3152.41i
+Iloraz: 0.46-0.20i
+Moduł z1: 40.46
+Moduł z2: 80.18
+Faza z1: -1.11 rad
+Faza z2: -0.70 rad
+
+-----------------------------------------
+
+Liczba zespolona z1: 9.92-67.42i
+Liczba zespolona z2: -16.66+64.40i
+Suma: -6.74-3.02i
+Różnica: 26.58-131.82i
+Iloczyn: 4176.58 + 1762.07i
+Iloraz: -1.02+0.11i
+Moduł z1: 68.15
+Moduł z2: 66.52
+Faza z1: -1.42 rad
+Faza z2: 1.82 rad
+
+-----------------------------------------
+
+Liczba zespolona z1: -39.57-2.90i
+Liczba zespolona z2: 87.02-58.51i
+Suma: 47.45-61.41i
+Różnica: -126.59+55.61i
+Iloczyn: -3613.06 + 2062.88i
+Iloraz: -0.30-0.23i
+Moduł z1: 39.68
+Moduł z2: 104.86
+Faza z1: -3.07 rad
+Faza z2: -0.59 rad
+
+-----------------------------------------
+
+Liczba zespolona z1: 20.25+58.72i
+Liczba zespolona z2: -47.21-90.26i
+Suma: -26.96-31.54i
+Różnica: 67.46+148.98i
+Iloczyn: 4344.06 - 4599.94i
+Iloraz: -0.60-0.09i
+Moduł z1: 62.11
+Moduł z2: 101.86
+Faza z1: 1.24 rad
+Faza z2: -2.05 rad
+
+-----------------------------------------
+
+Liczba zespolona z1: 25.47-70.21i
+Liczba zespolona z2: -85.60+20.29i
+Suma: -60.13-49.92i
+Różnica: 111.07-90.50i
+Iloczyn: -755.67 + 6526.76i
+Iloraz: -0.47+0.71i
+Moduł z1: 74.69
+Moduł z2: 87.97
+Faza z1: -1.22 rad
+Faza z2: 2.91 rad
+
+-----------------------------------------
+
+Liczba zespolona z1: -73.83-71.61i
+Liczba zespolona z2: -77.31+16.08i
+Suma: -151.14-55.53i
+Różnica: 3.48-87.69i
+Iloczyn: 6859.29 + 4348.98i
+Iloraz: 0.73+1.08i
+Moduł z1: 102.85
+Moduł z2: 78.96
+Faza z1: -2.37 rad
+Faza z2: 2.94 rad
+
+-----------------------------------------
+
